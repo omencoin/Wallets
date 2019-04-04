@@ -6,6 +6,7 @@ https://github.com/omencoin/Wallets/raw/master/omencoin-qt_win64.zip
 
 
 Exchanges
+
 https://graviex.net/markets/omenbtc
 
 https://app.stex.com/en/trade/pair/BTC/OMEN/
