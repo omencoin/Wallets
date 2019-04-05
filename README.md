@@ -19,6 +19,8 @@ Transaction confirmations: 6 blocks
 !(https://omen-explorer.xyz/ext/getmoneysupply)
 
  [!iframe src="https://omen-explorer.xyz/ext/getmoneysupply"]
+ 
+ [[embed url=https://omen-explorer.xyz/ext/getmoneysupply]]
 
 ### Total coin supply: 18 000 000 000 coins
 
