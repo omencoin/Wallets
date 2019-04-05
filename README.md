@@ -30,7 +30,7 @@ Windows 64bit Wallet.
 
 https://github.com/omencoin/Wallets/raw/master/omencoin-qt_win64.zip
 
-Linuz 64bit 
+Linux 64bit 
 
 https://github.com/omencoin/Wallets/raw/master/omencoin-qt.tar.7z
 
