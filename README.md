@@ -12,9 +12,17 @@ Block time: 2 minutes
 
 POW Block reward: ended at 5000 block
 
+Transaction confirmations: 6 blocks
+
+Current Coin Supply
+
+https://omen-explorer.xyz/ext/getmoneysupply
+
 Total coin supply: 18 000 000 000 coins
 
-Transaction confirmations: 6 blocks
+# Coin Market Cap
+
+https://coinmarketcap.com/currencies/omencoin/
 
 # Wallets
 
