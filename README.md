@@ -14,11 +14,13 @@ POW Block reward: ended at 5000 block
 
 Transaction confirmations: 6 blocks
 
-Current Coin Supply
+# Current Coin Supply:
+```html
+<iframe src="https://omen-explorer.xyz/ext/getmoneysupply">
+</iframe>
+```
 
-https://omen-explorer.xyz/ext/getmoneysupply
-
-Total coin supply: 18 000 000 000 coins
+# Total coin supply: 18 000 000 000 coins
 
 # Coin Market Cap
 
