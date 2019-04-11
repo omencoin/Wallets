@@ -24,6 +24,10 @@ About 280.000.000
 
 https://coinmarketcap.com/currencies/omencoin/
 
+# Telegram
+
+https://t.me/omencoinofficial
+
 # Wallets
 
 Windows 64bit Wallet.
